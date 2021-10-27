@@ -35,5 +35,9 @@
    $ sudo make modules_install install                                             
    $ sudo update-grub2                                                             
 ```                                                                                
+## [How to run][1]                                                               
+<img src="./images/running.png" width=37%>                                           
+
+
 ## Author                                                                          
   * 李溶燮(yongseob.etri@gmail.com) (AliusM related only)

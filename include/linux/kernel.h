@@ -1,3 +1,4 @@
+// SPDX-FileCopyrightText: Copyright (c) 2021 Electronics and Telecommunications Research Institute
 /* SPDX-License-Identifier: GPL-2.0 */
 #ifndef _LINUX_KERNEL_H
 #define _LINUX_KERNEL_H

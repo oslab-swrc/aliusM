@@ -1,3 +1,4 @@
+// SPDX-FileCopyrightText: Copyright (c) 2021 Electronics and Telecommunications Research Institute
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Simple NUMA memory policy for the Linux kernel.
