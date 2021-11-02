@@ -35,7 +35,7 @@
    $ sudo make modules_install install                                             
    $ sudo update-grub2                                                             
 ```                                                                                
-## [exmaple output][1]                                                               
+## [Example output][1]                                                               
 <img src="./images/running.png" width=37%>                                           
 
 
