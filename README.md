@@ -36,7 +36,13 @@
    $ sudo update-grub2                                                             
 ```                                                                                
 ## [Example output][1]                                                               
-<img src="./images/running.png" width=37%>                                           
+<img src="./images/running.png" width=37%>       
+
+## Requirement lists
+
+* Data movement technique from DCPMM to DRAM on frequent access of DCPMM
+
+* Data eviction techniques (Which part of DCPMM is appropriate according to the pattern of data access) from DRAM to DCPMM when DRAM is full
 
 
 ## Author                                                                          
